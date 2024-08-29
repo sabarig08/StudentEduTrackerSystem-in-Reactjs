@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StudentEduTrackerSystem-in-Reactjs/static/css/main.ee1b36b2.css",
+    "main.js": "/StudentEduTrackerSystem-in-Reactjs/static/js/main.6f2436a0.js",
+    "index.html": "/StudentEduTrackerSystem-in-Reactjs/index.html",
+    "main.ee1b36b2.css.map": "/StudentEduTrackerSystem-in-Reactjs/static/css/main.ee1b36b2.css.map",
+    "main.6f2436a0.js.map": "/StudentEduTrackerSystem-in-Reactjs/static/js/main.6f2436a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee1b36b2.css",
+    "static/js/main.6f2436a0.js"
+  ]
+}
